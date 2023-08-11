@@ -1,0 +1,4 @@
+steps :
+1. pull the image from the docker hub 
+2. build the image
+3. push the image to github container
